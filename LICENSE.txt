@@ -1,0 +1,15 @@
+Van Lang university
+
+2025 Nguyen Ngoc Son
+
+This software and its accompanying documentation (collectively referred to as "the Software") may be utilized, copied, modified, published, or distributed by any individual, free of charge, under the following conditions:  
+
+- The copyright notice and permission notice must be included in all distributed copies of the Software.  
+
+- The Software is provided "as is" without warranties, either expressed or implied. The authors or holders of copyright accept no liability for any claims, damages, or other consequences resulting from its use or distribution.
+
+ALL ALGORITHM ARE REFERENCED AND BUILT BASED ON
+
+-> https://www.pnas.org/doi/10.1073/pnas.2022340118
+
+-> https://nlp.stanford.edu/projects/glove/
